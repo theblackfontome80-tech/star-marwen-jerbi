@@ -1,0 +1,18 @@
+PHOTOS DU SITE – STAR ASSURANCES, AGENCE MARWEN JERBI
+=====================================================
+
+Photos de l'agence (Facebook / Google Maps de l'agence) :
+  accueil.jpg        Agence de Kalaa Kebira, mur vert STAR (grande photo d'accueil)
+  agence.jpg         Espace d'accueil de l'agence de Kalaa Kebira
+  marwen-jerbi.jpg   Portrait de Marwen Jerbi avec son trophée STAR
+  distinctions.jpg   Étagère des trophées STAR
+  facade.jpg         Façade de l'immeuble avec l'enseigne STAR
+
+Photos des 8 solutions (Unsplash, libres de droits) :
+  automobile.jpg  habitation.jpg  voyage.jpg  sante.jpg
+  accidents.jpg   vie.jpg         epargne.jpg entreprises.jpg
+
+Pour remplacer une photo : gardez exactement le même nom de fichier.
+Format conseillé : 1200 x 1500 px pour les solutions, 2000 px de large pour
+l'accueil. Compressez-les (ex. squoosh.app, qualité 75-80 %) : idéalement
+moins de 300 Ko par photo.

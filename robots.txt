@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://star-marwen-jerbi.rayantriki.com/sitemap.xml
